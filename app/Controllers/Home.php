@@ -1,0 +1,1 @@
+<?$data['post'] ="http://newsapi.org/v2/everything?q=bitcoin&from=2020-05-25&sortBy=publishedAt&apiKey=6d3cfb421c954181a55a2857dc1d4456" ?>
